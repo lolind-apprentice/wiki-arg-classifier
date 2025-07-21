@@ -15,3 +15,6 @@ The coarse labels we have decided to annotate are the following:
 | **policy**         |  *“WP:GNG says so.”*                    |
 | **editorial/meta** |  *“I will add sources to the article."* |
 | **other**          |  *“Off-topic, but thanks for coming.”*  |
+
+
+Thanks to our reseach mentor for guiding us in the process Jiarui!
